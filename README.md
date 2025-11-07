@@ -10,31 +10,30 @@ Cada app foi desenvolvido com design limpo, funcionalidade completa e deploy ati
 
 ### ❤️ Diário do Amor  
 > Aplicativo para casais registrarem momentos e responderem perguntas diárias.  
-🔗 [Acessar App](https://diario-do-amor.vercel.app)
-
+🔗 https://47519a49-diario-do-amor-sooty.lasy.pro
 ---
 
 ### 💰 Meta Financeira+  
 > Organize metas e controle financeiro pessoal de forma simples e prática.  
-🔗 [Acessar App](https://meta-financeira.vercel.app)
+🔗 https://8d10ec96-novo-app-henna.lasy.pro
 
 ---
 
 ### 🧠 MindBoost AI  
 > IA motivacional que gera frases, dicas e reflexões diárias.  
-🔗 [Acessar App](https://mindboost-ai.vercel.app)
+🔗 https://9c63a89e-mentor-virtual-ia-tau.lasy.pro
 
 ---
 
 ### 🎯 Decida por Mim  
 > Ferramenta divertida para ajudar na tomada de decisões rápidas.  
-🔗 [Acessar App](https://decida-por-mim.vercel.app)
+🔗 https://0e56b042-decida-por-mim-theta.lasy.pro
 
 ---
 
 ### 🍽️ Receitas em 15 Minutos  
 > Encontre receitas simples e rápidas para o dia a dia.  
-🔗 [Acessar App](https://receitas-15min.vercel.app)
+🔗 https://aef8dccd-app-receitas-rapidas-gules.lasy.pro
 
 ---
 
