@@ -21,7 +21,7 @@ Cada app foi desenvolvido com design limpo, funcionalidade completa e deploy ati
 
 ### 🧠 MindBoost AI  
 > IA motivacional que gera frases, dicas e reflexões diárias.  
-🔗 https://9c63a89e-mentor-virtual-ia-tau.lasy.pro
+🔗 https://9323760b-novo-app-five.lasy.pro
 
 ---
 
@@ -46,5 +46,5 @@ Cada app foi desenvolvido com design limpo, funcionalidade completa e deploy ati
 ---
 
 ## 💰 Valor sugerido
-**R$ 2.500** pelo pacote completo  
+**R$ 2.000** pelo pacote completo  
 💡 Ideal para quem quer iniciar um portfólio de apps ou uma startup SaaS.
